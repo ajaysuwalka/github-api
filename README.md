@@ -1,11 +1,11 @@
 # TypeScript library starter
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Greenkeeper badge](https://badges.greenkeeper.io/alexjoverm/typescript-library-starter.svg)](https://greenkeeper.io/)
-[![Travis](https://img.shields.io/travis/alexjoverm/typescript-library-starter.svg)](https://travis-ci.org/alexjoverm/typescript-library-starter)
-[![Coveralls](https://img.shields.io/coveralls/alexjoverm/typescript-library-starter.svg)](https://coveralls.io/github/alexjoverm/typescript-library-starter)
-[![Dev Dependencies](https://david-dm.org/alexjoverm/typescript-library-starter/dev-status.svg)](https://david-dm.org/alexjoverm/typescript-library-starter?type=dev)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/AJoverMorales)
+[![Greenkeeper badge](https://badges.greenkeeper.io/ajaysuwalka/github-api.svg)](https://greenkeeper.io/)
+[![Travis](https://img.shields.io/travis/ajaysuwalka/github-api.svg)](https://travis-ci.org/ajaysuwalka/github-api)
+[![Coveralls](https://img.shields.io/coveralls/ajaysuwalka/github-api.svg)](https://coveralls.io/github/ajaysuwalka/github-api)
+[![Dev Dependencies](https://david-dm.org/ajaysuwalka/github-api/dev-status.svg)](https://david-dm.org/ajaysuwalka/github-api?type=dev)
+[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/ajaysuwalka)
 
 A starter project that makes creating a TypeScript library extremely easy.
 
@@ -14,7 +14,7 @@ A starter project that makes creating a TypeScript library extremely easy.
 ### Usage
 
 ```bash
-git clone https://github.com/alexjoverm/typescript-library-starter.git YOURFOLDERNAME
+git clone https://github.com/ajaysuwalka/github-api.git YOURFOLDERNAME
 cd YOURFOLDERNAME
 
 # Run npm install and write your library name when asked. That's all!
